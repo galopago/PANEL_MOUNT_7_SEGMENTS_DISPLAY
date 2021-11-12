@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JM-S03651BH
+D 5 digit 7 segment Red LED, common anode
+K display LED
+F http://led-china.com/uploadfiles/products/specs/JM-S03651BH-002.pdf
+$ENDCMP
+#
+#End Doc Library

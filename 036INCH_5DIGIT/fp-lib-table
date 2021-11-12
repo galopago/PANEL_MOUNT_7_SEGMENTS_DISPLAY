@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name JINGMEI)(type KiCad)(uri ${KIPRJMOD}/modules/JINGMEI.pretty)(options "")(descr ""))
+)
