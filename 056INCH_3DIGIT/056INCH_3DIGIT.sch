@@ -24,4 +24,15 @@ F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/BA56-12SRWA.pdf" H 5020 4
 	1    5450 4000
 	1    0    0    -1  
 $EndComp
+$Comp
+L titanmicroelectronics:TM1637 U?
+U 1 1 618E730A
+P 3000 3700
+F 0 "U?" H 3000 4781 50  0000 C CNN
+F 1 "TM1637" H 3000 4690 50  0000 C CNN
+F 2 "Package_SO:SO-20_12.8x7.5mm_P1.27mm" H 3200 4000 50  0001 C CNN
+F 3 "https://www.mcielectronics.cl/website_MCI/static/documents/Datasheet_TM1637.pdf" H 3200 4000 50  0001 C CNN
+	1    3000 3700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

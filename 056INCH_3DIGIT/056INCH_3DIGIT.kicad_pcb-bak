@@ -187,7 +187,7 @@
   )
 
   (module Package_SO:SO-20_12.8x7.5mm_P1.27mm (layer F.Cu) (tedit 5A02F2D3) (tstamp 618DB2EF)
-    (at 130.8354 110.0836)
+    (at 135.4836 109.7407)
     (descr "SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf")
     (tags "S0-20 ")
     (attr smd)
