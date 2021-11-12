@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BA56-12SRWA
+D 3 digit 7 segment Red LED, common anode
+K display LED
+F https://www.kingbrightusa.com/images/catalog/SPEC/BA56-12SRWA.pdf
+$ENDCMP
+#
+#End Doc Library
