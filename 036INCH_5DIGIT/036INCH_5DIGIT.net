@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/oportunidad/Desktop/repos/PANEL_MOUNT_7_SEGMENTS_DISPLAY/036INCH_5DIGIT/036INCH_5DIGIT.sch)
-    (date "vie 12 nov 2021 19:07:34")
+    (date "vie 12 nov 2021 22:09:44")
     (tool "Eeschema 5.1.5+dfsg1-2build2")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

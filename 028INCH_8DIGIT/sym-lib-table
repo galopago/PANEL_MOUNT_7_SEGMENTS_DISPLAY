@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name titanmicroelectronics)(type Legacy)(uri ${KIPRJMOD}/library/titanmicroelectronics.lib)(options "")(descr ""))
+  (lib (name jingmei)(type Legacy)(uri ${KIPRJMOD}/library/jingmei.lib)(options "")(descr ""))
+)
