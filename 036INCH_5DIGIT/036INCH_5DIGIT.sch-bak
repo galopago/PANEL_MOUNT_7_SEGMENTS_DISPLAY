@@ -272,4 +272,15 @@ Wire Wire Line
 	3600 4300 4150 4300
 Wire Wire Line
 	3600 4400 4150 4400
+$Comp
+L jingmei:JM-S03651BH U?
+U 1 1 6192D4B7
+P 5450 4000
+F 0 "U?" H 5450 4667 50  0000 C CNN
+F 1 "JM-S03651BH" H 5450 4576 50  0000 C CNN
+F 2 "JINGMEI:JM-S03651BH" H 5450 3400 50  0001 C CNN
+F 3 "http://led-china.com/uploadfiles/products/specs/JM-S03651BH-002.pdf" H 5020 4030 50  0001 C CNN
+	1    5450 4000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
