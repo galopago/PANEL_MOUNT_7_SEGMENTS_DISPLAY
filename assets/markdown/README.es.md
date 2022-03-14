@@ -22,6 +22,6 @@ Existen varias versiones de la tarjeta, cada una tiene su propia personalidad
 
 | DESCRIPCION                                  | CHIP CONTROLADOR| ENLACE                               
 |----------------------------------------------|-----------------|--------------------------------------
-| 056 PULGADAS 3 DIGITOS                       | TM1637          | [056 INCH 3 DIGIT](/056-inch-3-digit)  
-| 036 PULGADAS 5 DIGITOS                       | TM1637          | [036 INCH 5 DIGIT](/036-inch-5-digit)  
-| 028 PULGADAS 8 DIGITOS (2 Lineas x 4 Digitos)| MAX7219         | [028 INCH 8 DIGIT](/028-inch-8-digit)
+| 056 PULGADAS 3 DIGITOS                       | TM1637          | [056 PULGADAS 3 DIGITOS](/056-inch-3-digit)  
+| 036 PULGADAS 5 DIGITOS                       | TM1637          | [036 PULGADAS 5 DIGITOS](/036-inch-5-digit)  
+| 028 PULGADAS 8 DIGITOS (2 Lineas x 4 Digitos)| MAX7219         | [028 PULGADAS 8 DIGITOS](/028-inch-8-digit)
