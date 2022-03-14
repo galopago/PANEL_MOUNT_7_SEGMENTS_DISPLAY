@@ -14,9 +14,9 @@ The ecosystem follows 3 simple rules:
 
 The PCB design followed one simple principle: Try to place the MCU board as close as possible to a corner, maximizing the contiguous available PCB remaining space.
 
-0.56 Inch 3 Digits                            | 0.36 Inch 5 Digits             | 0.28 Inch 8 digits (4 Digitsx2 lines)                 
-----------------------------------------------|--------------------------------|--------------------------------------
-![](/056-inch-3-digit/assets/img/meteron.jpg) |![](/assets/img/small.jpg)      |![](/assets/img/big.jpg) 
+0.56 Inch 3 Digits                            | 0.36 Inch 5 Digits                           | 0.28 Inch 8 digits (4 Digitsx2 lines)                 
+----------------------------------------------|----------------------------------------------|---------------------------------------------
+![](/056-inch-3-digit/assets/img/meteron.jpg) |![](/036-inch-6-digit/assets/img/meteron.jpg) |![](/028-inch-8-digit/assets/img/meteron.jpg) 
 
 Female headers could be added to make MCU module reusable, and to gain some space below. Notice battery socket placed in available space!
 
