@@ -6,22 +6,22 @@ Display de 7 segmentos Open Source para montaje en panel, controlado serialmente
 
 Lea esto en otros idiomas: [English](../../README.md)
 
-Upgrading a 5 digit voltmeter PCB with a 5 digit serially controllable display
+Actualizando el PCB del voltimetro de 5 digitos por uno que se puede controlar serialmente.
 
-0.36 Inch 5 Digits voltmeter           | 0.36 Inch 5 Digits serially controllable     
+0.36 Pulgadas 5 Digitos voltimetro     | 0.36 Pulgadas 5 Digitos controlable serialmente     
 ---------------------------------------|----------------------------------------------
 ![](/assets/img/voltmeterback.jpg)     |![](/036-inch-5-digit/assets/img/meterback.jpg) 
 ![](/assets/img/voltmeterpcbfront.jpg) |![](/036-inch-5-digit/assets/img/pcbfront.jpg) 
 ![](/assets/img/voltmeterpcbback.jpg)  |![](/036-inch-5-digit/assets/img/pcbback.jpg) 
 
-The display can be now controlled by Arduino (or any other) boards via serial bus, to display numbers, letters, or individual segments.
+El display ahora puede ser controlado mediante una tarjeta Arduino (con otras tambien!) mediante un bus serial. Se podran mostrar numeros, caracteres o segmentos individuales.
 
-## Versions
+## Versiones
 
-There are several board versions, each one with different personalities
+Existen varias versiones de la tarjeta, cada una tiene su propia personalidad
 
-| HINT                               | CONTROLLER CHIP | LINK                                     
-|------------------------------------|-----------------|--------------------------------------
-| 056 INCH 3 DIGIT                   | TM1637          | [056 INCH 3 DIGIT](/056-inch-3-digit)  
-| 036 INCH 5 DIGIT                   | TM1637          | [036 INCH 5 DIGIT](/036-inch-5-digit)  
-| 028 INCH 8 DIGIT (2 Lines x 4Digit)| MAX7219         | [028 INCH 8 DIGIT](/028-inch-8-digit)
+| DESCRIPCION                                  | CHIP CONTROLADOR| ENLACE                               
+|----------------------------------------------|-----------------|--------------------------------------
+| 056 PULGADAS 3 DIGITOS                       | TM1637          | [056 INCH 3 DIGIT](/056-inch-3-digit)  
+| 036 PULGADAS 5 DIGITOS                       | TM1637          | [036 INCH 5 DIGIT](/036-inch-5-digit)  
+| 028 PULGADAS 8 DIGITOS (2 Lineas x 4 Digitos)| MAX7219         | [028 INCH 8 DIGIT](/028-inch-8-digit)
