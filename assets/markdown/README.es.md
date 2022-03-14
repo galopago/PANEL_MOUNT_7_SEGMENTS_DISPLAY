@@ -4,7 +4,7 @@ Display de 7 segmentos Open Source para montaje en panel, controlado serialmente
 
 ![METERON](/036-inch-5-digit/assets/img/meteron.jpg)
 
-Lea esto en otros idiomas: [English](/assets/markdown/README.md)
+Lea esto en otros idiomas: [English](../../README.md)
 
 Upgrading a 5 digit voltmeter PCB with a 5 digit serially controllable display
 
