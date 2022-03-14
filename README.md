@@ -2,7 +2,7 @@
 
 Open source 7 segment serially controlled led display that fits inside a generic 45x26mm panel mount plastic enclosure. Upgrade your function specific panel meter PCB with a new one controlable by your prefered MCU.
 
-![METERON](/056-inch-3-digit/assets/img/meteron.jpg)
+![METERON](/036-inch-5-digit/assets/img/meteron.jpg)
 
 Tusistemote is an Open Source, modular ecosystem that uses pre-made PCB to mix and match your choice of processor board. Is oriented to make small, mobile, battery powered electronic projects work in real conditions in a very short time.
 
