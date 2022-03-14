@@ -1,6 +1,6 @@
 # PANEL MOUNT 7 SEGMENT SERIALLY CONTROLED LED DISPLAYS
 
-Open source 7 segment serially controlled led display that fits inside a generic 45x26mm panel mount plastic enclosure. Upgrade your function specific panel meter PCB with a new one controlable by your prefered MCU.
+Open source 7 segment serially controlled led display that fits inside a generic 45x26mm panel mount plastic enclosure. Upgrade your function specific panel meter PCB with a new one controllable by your preferred MCU.
 
 ![METERON](/036-inch-5-digit/assets/img/meteron.jpg)
 
@@ -15,7 +15,7 @@ Upgrading a 5 digit voltmeter PCB with a 5 digit serially controllable display
 ![](/assets/img/voltmeterpcbback.jpg)         |![](/036-inch-5-digit/assets/img/pcbback.jpg) 
 
 
-The display can be now controlled by arduino (or any other) boards via serial bus, to display numbers, letters, or individual segments.
+The display can be now controlled by Arduino (or any other) boards via serial bus, to display numbers, letters, or individual segments.
 
 ## Versions
 
