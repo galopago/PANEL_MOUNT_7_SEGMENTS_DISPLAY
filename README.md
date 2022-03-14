@@ -14,6 +14,11 @@ Upgrading a 5 digit voltmeter PCB with a 5 digit serially controllable display
 ![](/assets/img/voltmeterpcbfront.jpg)        |![](/036-inch-5-digit/assets/img/pcbfront.jpg) 
 ![](/assets/img/voltmeterpcbback.jpg)         |![](/036-inch-5-digit/assets/img/pcbback.jpg) 
 
+
+The display can be now controlled by arduino (or any other) boards via serial bus, to display numbers, letters, or individual segments.
+
+## VERSIONS
+
 Tusistemote is an Open Source, modular ecosystem that uses pre-made PCB to mix and match your choice of processor board. Is oriented to make small, mobile, battery powered electronic projects work in real conditions in a very short time.
 
 
