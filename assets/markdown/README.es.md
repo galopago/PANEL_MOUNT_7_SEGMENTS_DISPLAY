@@ -1,10 +1,10 @@
 # DISPLAY DE 7 SEGMENTOS PARA MONTAJE EN PANEL CONTROLADO SERIALMENTE
 
-Open source 7 segment serially controlled led display that fits inside a generic 45x26mm panel mount plastic enclosure. Upgrade your function specific panel meter PCB with a new one controllable by your preferred MCU.
+Display de 7 segmentos Open Source para montaje en panel, controlado serialmente que encaja en un bisel generico para montaje en panel de 45x26mm. So podra actualizar en medidor de panel de uso especifico, simplemente cambiando el PCB por uno nuevo, el cual puede ser comandado por un microcontrolador.
 
 ![METERON](/036-inch-5-digit/assets/img/meteron.jpg)
 
-Read this in other languages: [Español](/assets/markdown/README.es.md)
+Lea esto en otros idiomas: [English](/assets/markdown/README.md)
 
 Upgrading a 5 digit voltmeter PCB with a 5 digit serially controllable display
 
