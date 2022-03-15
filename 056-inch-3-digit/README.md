@@ -5,11 +5,9 @@ Open source 7 segment serially controlled led display that fits inside a generic
 ![METERON](/056-inch-3-digit/assets/img/meteron.jpg)
 
 
-Upgrading a 5 digit voltmeter PCB with a 5 digit serially controllable display
-
-0.36 Inch 5 Digits voltmeter                  | 0.36 Inch 5 Digits serially controllable     
+PCB FRONT                                     | PCB BACK
 ----------------------------------------------|----------------------------------------------
-![](/assets/img/voltmeterback.jpg)            |![](/036-inch-5-digit/assets/img/meterback.jpg) 
+![](/056-inch-3-digit/assets/img/pcbfront.jpg) |![](/056-inch-3-digit/assets/img/pcbback.jpg) 
 ![](/assets/img/voltmeterpcbfront.jpg)        |![](/036-inch-5-digit/assets/img/pcbfront.jpg) 
 ![](/assets/img/voltmeterpcbback.jpg)         |![](/036-inch-5-digit/assets/img/pcbback.jpg) 
 
