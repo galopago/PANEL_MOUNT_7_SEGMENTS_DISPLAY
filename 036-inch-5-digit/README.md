@@ -2,7 +2,7 @@
 
 Open source 7 segment serially controlled led display that fits inside a generic 45x26mm panel mount plastic enclosure. Based on [TM1637](assets/pdf/TM1637.pdf) chip. This IC is controlled by a serial two wire bus similar, but not exactly to i2c.
 
-![METERON](/056-inch-3-digit/assets/img/meteron.jpg)
+![METERON](/036-inch-5-digit/assets/img/meteron.jpg)
 
 
 PCB FRONT                                     | PCB BACK
