@@ -2,7 +2,7 @@
 
 Open source 7 segment serially controlled led display that fits inside a generic 45x26mm panel mount plastic enclosure. Based on TM1637 chip
 
-![METERON](/036-inch-5-digit/assets/img/meteron.jpg)
+![METERON](/056-inch-3-digit/assets/img/meteron.jpg)
 
 
 Upgrading a 5 digit voltmeter PCB with a 5 digit serially controllable display
